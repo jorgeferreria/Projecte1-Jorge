@@ -4,8 +4,8 @@ public class Projecte1_Jorge {
 
     public static void main(String[] args) {
         
-        System.out.println("hola");
-        
+        System.out.println("Hola");
+        System.out.println("Adeu");
         
     }
     
